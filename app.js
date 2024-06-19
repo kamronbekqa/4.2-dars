@@ -1,0 +1,10 @@
+let ism = prompt("ismingizni kiriting");
+let familiya = prompt('familyangizni kiriting');
+let qiziqishi = prompt('qiziqishlaringizni kiriting');
+let turarjoyi = prompt('turar joyingizni kiriting');
+let raxmat = alert('malumotlaringiz uchun raxmat');
+console.log(ism);
+console.log(familiya);
+console.log(qiziqishi);
+console.log(turarjoyi);
+console.log(raxmat);
